@@ -158,7 +158,7 @@ This table details the valid `arch`/`distro` combinations:
 | riscv64  | ubuntu20.04, ubuntu22.04, ubuntu_latest, ubuntu_rolling, ubuntu_devel, alpine_edge |
 | s390x    | jessie, stretch, buster, bullseye, ubuntu16.04, ubuntu18.04, ubuntu20.04, ubuntu22.04, ubuntu_latest, ubuntu_rolling, ubuntu_devel, fedora_latest, alpine_latest |
 | ppc64le  | jessie, stretch, buster, bullseye, ubuntu16.04, ubuntu18.04,ubuntu20.04, ubuntu22.04, ubuntu_latest, ubuntu_rolling, ubuntu_devel, fedora_latest, alpine_latest |
-| x86      | ubuntu16.04, ubuntu18.04, ubuntu20.04, ubuntu22.04 |
+| amd64     | ubuntu16.04, ubuntu18.04, ubuntu20.04, ubuntu22.04, ubuntu_latest |
 
 
 Using an invalid `arch`/`distro` combination will fail.
